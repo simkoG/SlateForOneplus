@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Slate For OnePlus';
+	src: url('SlateForOnePlusBlack.woff2') format('woff2');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Slate For OnePlus';
+	src: url('SlateForOnePlus-Bold.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Slate For OnePlus';
+	src: url('SlateForOnePlus-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Slate For OnePlus';
+	src: url('SlateForOnePlusMedium.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Slate For OnePlus Bk';
+	src: url('SlateForOnePlusBk.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Slate For OnePlus';
+	src: url('SlateForOnePlusThin.woff2') format('woff2');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Slate For OnePlus';
+	src: url('SlateForOnePlusLight.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+}
