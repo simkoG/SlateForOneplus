@@ -1,4 +1,4 @@
 # SlateForOneplus
 SlateForOneplus by Rod McDonald
 
-![SlateForOneplus](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![SlateForOneplus](https://raw.githubusercontent.com/simkoG/SlateForOneplus/master/sample.jpg)
